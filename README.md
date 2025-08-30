@@ -44,8 +44,7 @@ The backend is designed for **performance and scalability**, using asynchronous 
 
 2. Create and activate virtual environment  
    `python -m venv venv`  
-   `venv\Scripts\activate` (Windows)  
-   `source venv/bin/activate` (Mac/Linux)  
+   `venv\Scripts\activate`  
 
 3. Install dependencies  
    `pip install fastapi uvicorn[standard] motor pydantic python-jose[cryptography] passlib[bcrypt] python-dotenv`  

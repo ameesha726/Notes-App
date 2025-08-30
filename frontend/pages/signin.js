@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import API from '../lib/api'
-import { useAuth } from './useAuth'
+import { useAuth } from '../auth/useAuth'
 import Router from 'next/router'
 import { Eye, EyeOff } from 'lucide-react'
 

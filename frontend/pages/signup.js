@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import API from '../lib/api'
 import Router from 'next/router'
 import { Eye, EyeOff } from 'lucide-react'
-import { useAuth } from './useAuth'
+import { useAuth } from '../auth/useAuth'
 
 export default function SignUp() {
   const setToken = useAuth(state => state.setToken)

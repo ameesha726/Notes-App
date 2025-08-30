@@ -30,8 +30,9 @@ The backend is designed for **performance and scalability**, using asynchronous 
 ## 🌐 Live Demo
 👉 [🚀 Open Notes App](https://notes-app-b5ve.vercel.app/)  
 
-> 💡 You can also **sign up directly** with your own email and password to try it out.  
-
+### 🧑‍💻 Demo Credentials  
+-  **Email:** `Ameesha@gmail.com`  
+-  **Password:** `Ameesha` 
 ---
 
 ## ⚙️ Installation & Running Locally

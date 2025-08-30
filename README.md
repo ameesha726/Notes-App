@@ -28,11 +28,9 @@ The backend is designed for **performance and scalability**, using asynchronous 
 ---
 
 ## 🌐 Live Demo
-👉 [🚀 Open Notes App](https://notes-app-b5ve.vercel.app/)  
+👉 [https://notes-app](https://notes-app-b5ve.vercel.app/)  
 
-### 🧑‍💻 Demo Credentials  
--  **Email:** `Ameesha@gmail.com`  
--  **Password:** `Ameesha` 
+
 ---
 
 ## ⚙️ Installation & Running Locally

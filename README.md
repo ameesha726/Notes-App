@@ -1,6 +1,6 @@
-# 📝 Notes App (Next.js + FastAPI + MongoDB)
+#  Notes App (Next.js + FastAPI + MongoDB)
 
-## 📖 Project Description
+##  Project Description
 The **Notes App** is a full-stack web application that allows users to **create, view, edit, and delete notes** securely.  
 It is built with **Next.js** on the frontend and **FastAPI** on the backend, using **MongoDB** as the database.  
 The application implements **JWT-based authentication**, so each user can access and manage only their own notes.
@@ -11,12 +11,12 @@ The backend is designed for **performance and scalability**, using asynchronous 
 ---
 
 ## ✨ Features
-- 🔐 **User Authentication:** Sign up, sign in, and JWT-based secure access.  
-- 🗒️ **Notes Management:** Create, read, update, and delete notes.  
-- 🎨 **Responsive Frontend:** Clean UI built with Tailwind CSS and reusable components.  
-- ⚡ **State Management:** Managed using Zustand for simplicity and efficiency.  
-- 🚀 **Backend API:** FastAPI with asynchronous MongoDB operations.  
-- 🔒 **Secure and Scalable:** JWT authentication and well-structured code.  
+-  **User Authentication:** Sign up, sign in, and JWT-based secure access  
+-  **Notes Management:** Create, read, update, and delete notes  
+-  **Responsive Frontend:** Clean UI built with Tailwind CSS and reusable components  
+-  **State Management:** Managed using Zustand for simplicity and efficiency  
+-  **Backend API:** FastAPI with asynchronous MongoDB operations  
+-  **Secure and Scalable:** JWT authentication and well-structured code  
 
 ---
 
@@ -28,11 +28,9 @@ The backend is designed for **performance and scalability**, using asynchronous 
 ---
 
 ## 🌐 Live Demo
-👉 [https://notes-app](https://notes-app-b5ve.vercel.app/)  
+👉 [🚀 Open Notes App](https://notes-app-b5ve.vercel.app/)  
 
-### 🧑‍💻 Demo Credentials  
-- Email: Ameesha@gmail.com
-- Password: Ameesha
+> 💡 You can also **sign up directly** with your own email and password to try it out.  
 
 ---
 
